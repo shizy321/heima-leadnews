@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="heima-leadnews-apis" />
         <module name="heima-leadnews-common" />
-        <module name="heima-leadnews-model" />
+        <module name="heima-leadnews-apis" />
         <module name="heima-leadnews-utils" />
+        <module name="heima-leadnews-model" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
